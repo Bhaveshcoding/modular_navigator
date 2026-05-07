@@ -1,24 +1,20 @@
-| Item No. | Component Name | Description | Qty | Unit Price (USD) | Total Price (USD) | Name of Buyer | Purchase Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | ESP32 DevKit V1 | Main controller (WiFi + Bluetooth) | 1 | $4.75 | $4.75 | RoboticsDNA | [Link](https://roboticsdna.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board-30-pins/) |
-| 2 | HC-SR04 Sensors | Ultrasonic distance modules | 4 | $1.07 | $4.28 | Amazon | [Link](https://www.amazon.in/TekBud-Ultrasonic-Distance-Detector-Robotics/dp/B0B5N57M79) |
-| 3 | Coin Vibration Motors | Haptic feedback buzzers | 3 | $0.83 | $2.49 | Robu.in | [Link](https://robu.in/product/erm-coin-vibration-motor-8-mm-dia-3-4mm-width) |
-| 4 | 2N2222 Transistors | NPN switches for motor control | 3 | $0.097 | $0.291 | ElectronicsComp | [Link](https://www.electronicscomp.com/2n2222a-npn-bipolar-transistor-to-92-plastic-package) |
-| 5 | 1N4007 Diodes | Flyback protection for motors | 3 | $0.021 | $0.063 | Quartz Comp | [Link](https://quartzcomponents.com/products/1n4007-diode) |
-| 6 | 1kΩ Resistors | Current limiting (Transistor base) | 3 | $0.011 | $0.033 | flyrobo | [Link](https://www.flyrobo.in/1k-ohm-resistor) |
-| 7 | 3.7V Li-Po Battery | 500mAh–1000mAh battery | 1 | $0.95 | $0.95 | Amazon | [Link](https://www.amazon.in/Electron-500Mah-HCY-602030-R-41202096-Rechargeable/dp/B0DNY3TXRW) |
-| 8 | TP4056 Charger | USB charging with protection | 1 | $0.19 | $0.19 | Robu.in | [Link](https://robocraze.com/products/tp4056-li-ion-battery-charging-module) |
-| 9 | Jumper Wires (M-M) | Prototyping wires (20 pcs) | 1 | $0.28 | $0.28 | Robocraze | [Link](https://robocraze.com/products/m2m-jumper-wires-20cm-20pcs) |
-| 10 | Jumper Wires (M-F) | Module connection wires (20 pcs) | 1 | $0.25 | $0.25 | Robocraze | [Link](https://robocraze.com/products/f2m-jumper-wires-20cm-20pcs) |
-| 11 | Breadboard | 830-point board for testing | 1 | $0.59 | $0.59 | Robu.in | [Link](https://robu.in/product/breadboard-840-tie-points-solderless-diy-project-circuit-test-breadboard) |
-| 12 | JST-PH 2.0mm | Battery connection pairs | 2 | $0.12 | $0.24 | Robu.in | [Link](https://robu.in/product/ph-02y-2mm-2-pin-female-housing-connector-with-300mm-wire28-awg) |
-| 13 | Slide Switch | Main power toggle switch | 1 | $0.043 | $0.043 | Robu.in | [Link](https://robu.in/product/4mm-spdt-1p2t-slide-switch-pack-of-10) |
-| 14 | 330Ω Resistor | Current limiting for LED | 1 | $0.011 | $0.011 | flyrobo | [Link](https://www.flyrobo.in/330-ohm-resistor) |
-| 15 | 22 AWG Solid Wire | Internal wiring (1m) | 1 | $0.17 | $0.17 | Robu.in | [Link](https://robu.in/product/22awg-solid-core-insulated-wire-pvc-red) |
-| 16 | 3D Printing Filament | PLA Material for enclosure/clips | 1 | $4.00 | $4.00 | Almighty Fila | [Link](https://almightyfila.com/product/pla-3d-printing-filament/) |
-| 17 | Super Glue | Loctite Power Gel for assembly | 1 | $2.89 | $2.89 | Amazon | [Link](https://www.amazon.in/Loctite-Precision-Adhesive-Accurate-Materials/dp/B0001GRVPK?th=1) |
-| 18 | M3 x 10mm Screws | Assembly hardware (6 pcs) | 6 | $0.019 | $0.114 | OnlyScrews | [Link](https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20) |
-| 19 | M3 Hex Nuts | Assembly hardware (6 pcs) | 6 | $0.011 | $0.066 | OnlyScrews | [Link](https://onlyscrews.in/products/m3-nut-ss-304) |
-| 20 | Foam Padding | Motor vibration isolation | 1 | $2.14 | $2.14 | Amazon | [Link](https://www.amazon.in/QTH-Thick-Foam-Sheet-Pack/dp/B083KLWNJR) |
-| 21 | M1.6 Screws | Assembly hardware | 16 | $0.034 | $0.544 | OnlyScrews | [Link](https://onlyscrews.in/products/m1-6-x-5mm-phillips-round-head-laptop-and-mobile-screw-dia-1-6mm-length-5mm?currency=INR&country=IN&variant=51075283714361&stkn=6e84ebfba1b8&srsltid=AfmBOoozKKatOMILq1_G7y2F_jvCDCK-VTuu5UoyoSBWBinyGhlq05sM354) |
-| **GRAND TOTAL** | -- | -- | -- | -- | **$24.39** | -- | -- |
+Item No.,Component Name,Description,Qty,Unit Price (USD),Total Price (USD),Name of Buyer,Purchase Link
+1.0,ESP32 DevKit V1,Main controller (WiFi + Bluetooth),1.0,$4.75,$4.75,RoboticsDNA,https://roboticsdna.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board-30-pins/
+2.0,HC-SR04 Sensors,Ultrasonic distance modules,4.0,$1.07,$4.28,Amazon,https://www.amazon.in/TekBud-Ultrasonic-Distance-Detector-Robotics/dp/B0B5N57M79
+3.0,Coin Vibration Motors,Haptic feedback buzzers,3.0,$0.83,$2.49,Robu.in,https://robu.in/product/erm-coin-vibration-motor-8-mm-dia-3-4mm-width
+4.0,2N2222 Transistors,NPN switches for motor control,3.0,$0.097,$0.291,ElectronicsComp,https://www.electronicscomp.com/2n2222a-npn-bipolar-transistor-to-92-plastic-package
+5.0,1N4007 Diodes,Flyback protection for motors,3.0,$0.021,$0.063,Quartz Comp,https://quartzcomponents.com/products/1n4007-diode
+6.0,1kΩ Resistors,Current limiting (Transistor base),3.0,$0.011,$0.033,flyrobo,https://www.flyrobo.in/1k-ohm-resistor
+7.0,3.7V Li-Po Battery,500mAh–1000mAh battery,1.0,$0.95,$0.95,Amazon,https://www.amazon.in/Electron-500Mah-HCY-602030-R-41202096-Rechargeable/dp/B0DNY3TXRW
+8.0,TP4056 Charger,USB charging with protection,1.0,$0.19,$0.19,Robu.in,https://robocraze.com/products/tp4056-li-ion-battery-charging-module
+9.0,Jumper Wires (M-M),Prototyping wires (20 pcs),1.0,$0.28,$0.28,Robocraze,https://robocraze.com/products/m2m-jumper-wires-20cm-20pcs
+10.0,Jumper Wires (M-F),Module connection wires (20 pcs),1.0,$0.25,$0.25,Robocraze,https://robocraze.com/products/f2m-jumper-wires-20cm-20pcs
+11.0,Breadboard,830-point board for testing,1.0,$0.59,$0.59,Robu.in,https://robu.in/product/breadboard-840-tie-points-solderless-diy-project-circuit-test-breadboard
+14.0,330Ω Resistor,Current limiting for LED,1.0,$0.011,$0.011,flyrobo,https://www.flyrobo.in/330-ohm-resistor
+16.0,3D Printing Filament,PLA Material for enclosure/clips,1.0,$4.00,$4.00,Almighty Fila,https://almightyfila.com/product/pla-3d-printing-filament/
+17.0,Super Glue,Loctite Power Gel for assembly,1.0,$2.89,$2.89,Amazon,https://www.amazon.in/Loctite-Precision-Adhesive-Accurate-Materials/dp/B0001GRVPK?th=1
+18.0,M3 x 10mm Screws,Assembly hardware (6 pcs),6.0,$0.019,$0.114,OnlyScrews,https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20
+19.0,M3 Hex Nuts,Assembly hardware (6 pcs),6.0,$0.011,$0.066,OnlyScrews,https://onlyscrews.in/products/m3-nut-ss-304
+20.0,Foam Padding,Motor vibration isolation,1.0,$2.14,$2.14,Amazon,https://www.amazon.in/QTH-Thick-Foam-Sheet-Pack/dp/B083KLWNJR
+21.0,M1.6 Screws,Assembly hardware,16.0,$0.034,$0.544,OnlyScrews,https://onlyscrews.in/products/m1-6-x-5mm-phillips-round-head-laptop-and-mobile-screw-dia-1-6mm-length-5mm
+,GRAND TOTAL,,, ,$23.932,,
