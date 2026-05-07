@@ -112,7 +112,6 @@ This project started as a simple concept and slowly evolved into a complete assi
 | HC-SR04 Sensors        | Obstacle detection              |
 | Vibration Motors       | Haptic feedback                 |
 | TP4056 Module          | Battery charging and protection |
-| MT3608 Boost Converter | Stable 5V power output          |
 | 18650 Battery          | Portable power source           |
 | 2N2222 Transistors     | Motor driving                   |
 | Resistors and Diodes   | Signal protection               |
