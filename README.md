@@ -196,6 +196,15 @@ Diode across motor (reverse biased)
 
 ---
 
+# Firmware
+
+The firmware continuously reads data from all ultrasonic sensors and activates vibration motors depending on obstacle direction and distance.
+
+The ESP32 processes:
+- front obstacle detection
+- side obstacle detection
+- downward ledge detection
+- motor feedback logic
 # Electronics Diagram
 
 ![Electronics Map](Electronics/Electronics.jpg)
