@@ -287,7 +287,6 @@ Upload the code to the ESP32 using Arduino IDE.
 Required libraries:
 
 * ESP32 board package
-* NewPing (optional)
 
 ---
 
@@ -312,6 +311,14 @@ The device is now ready for testing.
 
 # Bill of Materials (BOM)
 
+Present at-:
+```text
+BOM.csv
+```
+
+---
+
+# Bill of Materials (BOM)[Overview]
 | Item                   | Quantity |
 | ---------------------- | -------- |
 | ESP32 Dev Board        | 1        |
