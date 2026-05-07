@@ -1,15 +1,15 @@
 Item No.,Component Name,Description,Qty,Unit Price (USD),Total Price (USD),Name of Buyer,Purchase Link
 1.0,ESP32 DevKit V1,Main controller (WiFi + Bluetooth),1.0,$4.75,$4.75,RoboticsDNA,https://roboticsdna.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board-30-pins/
 2.0,HC-SR04 Sensors,Ultrasonic distance modules,4.0,$1.07,$4.28,Amazon,https://www.amazon.in/TekBud-Ultrasonic-Distance-Detector-Robotics/dp/B0B5N57M79
-3.0,Coin Vibration Motors,Haptic feedback buzzers,3.0,$0.83,$2.49,Robu.in,https://robu.in/product/erm-coin-vibration-motor-8-mm-dia-3-4mm-width
+3.0,Coin Vibration Motors,Haptic feedback buzzers,3.0,$0.83,$2.49,Robu.in,https://robu.in/product/erm-coin-vibration-motor-12mm-dia-3-4mm-width
 4.0,2N2222 Transistors,NPN switches for motor control,3.0,$0.097,$0.291,ElectronicsComp,https://www.electronicscomp.com/2n2222a-npn-bipolar-transistor-to-92-plastic-package
 5.0,1N4007 Diodes,Flyback protection for motors,3.0,$0.021,$0.063,Quartz Comp,https://quartzcomponents.com/products/1n4007-diode
-6.0,1kΩ Resistors,Current limiting (Transistor base),3.0,$0.011,$0.033,flyrobo,https://www.flyrobo.in/1k-ohm-resistor
+6.0,1kΩ Resistors,Current limiting (Transistor base),3.0,$0.011,$0.033,flyrobo,https://www.flyrobo.in/planetary-geared-motor-24v-175rpm-100w?search=1k%20ohm%20resistor&description=1
 7.0,3.7V Li-Po Battery,500mAh–1000mAh battery,1.0,$0.95,$0.95,Amazon,https://www.amazon.in/Electron-500Mah-HCY-602030-R-41202096-Rechargeable/dp/B0DNY3TXRW
 8.0,TP4056 Charger,USB charging with protection,1.0,$0.19,$0.19,Robu.in,https://robocraze.com/products/tp4056-li-ion-battery-charging-module
 9.0,Jumper Wires (M-M),Prototyping wires (20 pcs),1.0,$0.28,$0.28,Robocraze,https://robocraze.com/products/m2m-jumper-wires-20cm-20pcs
 10.0,Jumper Wires (M-F),Module connection wires (20 pcs),1.0,$0.25,$0.25,Robocraze,https://robocraze.com/products/f2m-jumper-wires-20cm-20pcs
-11.0,Breadboard,830-point board for testing,1.0,$0.59,$0.59,Robu.in,https://robu.in/product/breadboard-840-tie-points-solderless-diy-project-circuit-test-breadboard
+11.0,Breadboard,830-point board for testing,1.0,$0.59,$0.59,FLYRobu.in,https://www.flyrobo.in/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality?tracking=ads&tracking=4a9a9a&gad_source=1&gad_campaignid=17426303996&gclid=Cj0KCQjw8PDPBhCeARIsAOJwmWV2iDNin2m_seHIlw9-TCsbBYByHSonu9yqcTIKll9PKtsrd3D9opIaAsIsEALw_wcB
 14.0,330Ω Resistor,Current limiting for LED,1.0,$0.011,$0.011,flyrobo,https://www.flyrobo.in/330-ohm-resistor
 16.0,3D Printing Filament,PLA Material for enclosure/clips,1.0,$4.00,$4.00,Almighty Fila,https://almightyfila.com/product/pla-3d-printing-filament/
 17.0,Super Glue,Loctite Power Gel for assembly,1.0,$2.89,$2.89,Amazon,https://www.amazon.in/Loctite-Precision-Adhesive-Accurate-Materials/dp/B0001GRVPK?th=1
