@@ -24,8 +24,8 @@ The device is compact, modular, rechargeable, and designed inside a custom 3D pr
 
 # Full Device Renders
 
-| Top View                                      | Side View                                       |
-| --------------------------------------------- | ----------------------------------------------- |
+| Top View                                    | Side View                                     |
+| ------------------------------------------- | --------------------------------------------- |
 | ![Top Render](IMAGES/Render/RENDER_TOP.jpg) | ![Side Render](IMAGES/Render/RENDER_SIDE.jpg) |
 
 ---
@@ -88,6 +88,19 @@ This project started as a simple concept and slowly evolved into a complete assi
 
 ---
 
+# Example Usage
+
+A user walking with Modular Navigator receives vibration feedback whenever nearby obstacles are detected.
+
+* Left vibration → obstacle on left
+* Right vibration → obstacle on right
+* Front vibration → object ahead
+* Downward detection → stairs or ledge warning
+
+This allows the user to understand nearby surroundings without relying completely on visual awareness.
+
+---
+
 # Exploded Views
 
 ## Top Exploded View
@@ -112,6 +125,7 @@ This project started as a simple concept and slowly evolved into a complete assi
 | HC-SR04 Sensors        | Obstacle detection              |
 | Vibration Motors       | Haptic feedback                 |
 | TP4056 Module          | Battery charging and protection |
+| MT3608 Boost Converter | Stable 5V power output          |
 | 18650 Battery          | Portable power source           |
 | 2N2222 Transistors     | Motor driving                   |
 | Resistors and Diodes   | Signal protection               |
@@ -122,7 +136,7 @@ This project started as a simple concept and slowly evolved into a complete assi
 
 ## Power System
 
-```text
+```text id="xpxb6f"
 Battery → TP4056 (charging + protection)
 TP4056 OUT → MT3608 Boost Converter → 5V Output
 5V → ESP32 VIN Pin
@@ -164,7 +178,7 @@ This reduces the 5V ECHO signal to approximately 3.3V for safe ESP32 input.
 
 # Vibration Motor Circuit
 
-```text
+```text id="r26z0v"
 ESP32 GPIO → 1k resistor → Base of 2N2222
 Emitter → GND
 Collector → Motor (-)
@@ -199,7 +213,7 @@ Wokwi was used to:
 
 ## Wokwi Link
 
-[WOWKI Link](https://wokwi.com/projects/461725213892270081)
+[Wokwi Simulation](https://wokwi.com/projects/461725213892270081)
 
 ---
 
@@ -232,7 +246,7 @@ Print both parts of the enclosure:
 
 Files are available inside:
 
-```text
+```text id="2ttc5t"
 CAD files/Printing Parts/
 ```
 
@@ -263,7 +277,7 @@ Use M1.5 screws where required for mounting.
 
 Follow the wiring diagram and GPIO mapping provided in:
 
-```text
+```text id="k3slwi"
 Electronics/Electronics.md
 ```
 
@@ -278,7 +292,7 @@ Important:
 
 Open:
 
-```text
+```text id="h7n5cq"
 FIRMWARE/main.ino
 ```
 
@@ -305,20 +319,20 @@ The device is now ready for testing.
 
 # Zine
 
-![Zine](IMAGES/Zine/MODULAR_NAVIGATOR.jpg)
+![Zine](Zine/MODULAR_NAVIGATOR.png)
 
 ---
 
 # Bill of Materials (BOM)
 
-Present at-:
-```text
+The complete BOM is available in:
+
+```text id="j4j4eg"
 BOM.csv
 ```
 
----
+## Bill of Materials Overview
 
-# Bill of Materials (BOM)[Overview]
 | Item                   | Quantity |
 | ---------------------- | -------- |
 | ESP32 Dev Board        | 1        |
@@ -351,15 +365,30 @@ BOM.csv
 
 # Repository Structure
 
-```text
+```text id="teh7eu"
 ├── CAD files
+│   ├── Miscellaneous Parts_&_Images
+│   ├── Model
+│   └── Printing Parts
+│
 ├── Electronics
+│   ├── Electronics.jpg
+│   └── Electronics.md
+│
 ├── FIRMWARE
+│   └── main.ino
+│
 ├── IMAGES
+│   ├── Exploded View
+│   └── Render
+│
 ├── Zine
+│   └── MODULAR_NAVIGATOR.png
+│
 ├── BOM.csv
 ├── LICENSE
-├── README.md
+├── PLANNING DESIGN STAGE.md
+└── README.md
 ```
 
 ---
