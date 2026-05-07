@@ -381,9 +381,7 @@ BOM.csv
 ├── IMAGES
 │   ├── Exploded View
 │   └── Render
-│
-├── Zine
-│   └── MODULAR_NAVIGATOR.png
+|   └── Zine
 │
 ├── BOM.csv
 ├── LICENSE
