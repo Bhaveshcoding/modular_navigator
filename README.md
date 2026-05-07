@@ -319,7 +319,7 @@ The device is now ready for testing.
 
 # Zine
 
-![Zine](Zine/MODULAR_NAVIGATOR.png)
+![Zine](IMAGES/Zine/MODULAR_NAVIGATOR.jpg)
 
 ---
 
