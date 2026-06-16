@@ -37,6 +37,12 @@ Planned:
 
 ---
 
+# Motivation
+
+Many assistive navigation devices are expensive, difficult to repair, or rely heavily on audio feedback. This project explores a low-cost, open-source alternative that provides directional obstacle awareness through haptic feedback.
+
+The goal is to investigate whether commonly available components, 3D-printed parts, and open-source tools can be used to create a modular navigation aid that is easy to reproduce, modify, and improve.
+
 # Repository Highlights
 
 * Fusion 360 CAD source files
