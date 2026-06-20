@@ -199,6 +199,8 @@ The model contains:
 ## Wiring Diagram
 
 ![Electronics Map](Electronics/Electronics.jpg)
+<img width="1224" height="842" alt="image" src="https://github.com/user-attachments/assets/4c1b0982-7f4b-402b-9d30-0009c7c29981" />
+
 
 The wiring diagram documents the complete electrical system, including:
 
